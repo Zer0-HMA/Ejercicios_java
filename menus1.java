@@ -6,6 +6,7 @@ public class menus1 {
     int op = 0;
     while (op != 4) {
       System.out.println("\n =====Menu principal ====");
+      System.out.println("Opciones del menu: ");
       System.out.println("1. Mostrar tu nombre");
       System.out.println("2. Calcular el doble de un numero");
       System.out.println("3. Mostrar si un numero es par o impar");
